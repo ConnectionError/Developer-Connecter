@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Subhajit:Root@all-projects-pexe9.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "82d748c4767cad6e677c",
+  "githubClientSecret": "710ccff06b7ebcdd7cea306da833e64bf4b3b4fa"
+}
